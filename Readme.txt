@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+S3 Website training website. 
 
-Template Name: Ninestars
-Template URL: https://bootstrapmade.com/ninestars-free-bootstrap-3-theme-for-creative/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Upload the site to s3. 
+
+Update the site with the new index2.html
